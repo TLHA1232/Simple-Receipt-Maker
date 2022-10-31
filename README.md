@@ -1,3 +1,3 @@
-# Simple-Receipt-Maker#
+# Simple-Receipt-Maker
 A simple python-based programme that makes receipts.
-Not even ready yet!
+Keep an eye on this!
